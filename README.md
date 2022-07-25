@@ -48,6 +48,3 @@ camera to look at another target object when we click the left mouse button upon
 ## License
 
 [MIT license]
-# unity3d_solar_system
-# unity3d_solar
-# unity3d_solar
